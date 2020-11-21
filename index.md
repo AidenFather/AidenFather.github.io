@@ -2,7 +2,7 @@
 layout: page
 title: Data Scientist | Machine Learning Engineer
 subtitle: Artificial Intelligence Research
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/pic/web-3706561_1920.jpg
 ---
 
 <br/>
