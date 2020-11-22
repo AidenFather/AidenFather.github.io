@@ -9,7 +9,9 @@ cover-img: /assets/img/banner.jpg
 
 ## About me
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**Chris** has been working as a research associate in the field of transportation engineering over the past years. He applied advanced machined learning and statistical analysis techiques to enhance transportation system efficiency. 
+
+
 
 He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
 
