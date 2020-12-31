@@ -11,7 +11,7 @@ Publications can also be found from [Google Scholar](https://scholar.google.com/
 
 ### Journal Papers
 
-- Jagidar,	 R., Lee, J., **Kim, K.**, and Kang, M. (2018). Development and Evaluation of Traffic Count Sensor using Low-Cost LiDAR and Continuous Wavelet Transform. Transportation Research Record: Journal of the Transportation Research Board, (under second review)
+- Jagirdar, R., Lee, J., **Kim, K.**, & Kang, M. W. (2019). Development and Evaluation of Traffic Count Sensor with Low-Cost Light-Detection and Ranging and Continuous Wavelet Transform: Initial Results. Transportation Research Record, 2673(11), 209-219.
 
 - Lee, J., Zhong, Z., Du, B., and **Kim, K.** (2015). Low-Cost and Energy-Saving Wireless Sensor Network for Real-Time Urban Mobility Monitoring System. Journal of Sensors.
 
